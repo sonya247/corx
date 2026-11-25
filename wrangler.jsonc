@@ -67,7 +67,7 @@
 		{
 			"binding": "DB",
 			"database_name": "corx-db",
-			"database_id": "f507c30b-425b-4986-be56-967f75be6e56",
+			"database_id": "ada05eab-c66a-4d5e-ba9e-397292033ae0",
 			"migrations_dir": "migrations"
 		}
 	],
